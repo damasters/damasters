@@ -30,8 +30,8 @@
 - Technologies used: Python, PostgreSQL, Excel
 
 ### Internship Projects
-- Project 1
-- Project 2
+- Super Resolution Project | Sandia National Laboratories | Summer 2023 | [Download SR Presentation (PDF)](projects/daniel_masters_sr_git.pdf)
+- Optical Character Recognition Project | Sandia National Laboratories | Fall 2023/Spring 2024 | [Download OCR Presentation (PDF)](projects/daniel_masters_ocr_git.pdf)
 
 ### Academic Projects
 **Classified Disaster-Related Tweets using NLP (_July 2024 – August 2024_)**
