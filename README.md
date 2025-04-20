@@ -30,8 +30,8 @@
 - Technologies used: Python, PostgreSQL, Excel
 
 ### Internship Projects
--Project 1
--Project 2
+- Project 1
+- Project 2
 
 ### Academic Projects
 **Classified Disaster-Related Tweets using NLP (_July 2024 – August 2024_)**
