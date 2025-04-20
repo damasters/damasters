@@ -1,4 +1,4 @@
-# Data Scientist
+# Daniel Masters' Data Scientist Portfolio
 
 ### Education
 **University of Southern California - Los Angeles, CA**
