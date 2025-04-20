@@ -6,7 +6,7 @@
 - B.S. Mathematics/Economics | University of Southern California (_Graduated: May 2022_)
 
 ### Work Experience
-**Incoming Data Scientist Intern @ Lawrence Livermore National Lab**
+**Incoming Data Scientist Intern @ Lawrence Livermore National Lab (_June 2025-September 2025_)**
 
 **AI Tutor @ xAI (_December 2024 – Present_)**
 - Curated and delivered high-quality labeled data to enhance AI-generated responses
@@ -29,7 +29,11 @@
 - Teamed up with a fellow intern to develop a system to define color ranges for the search engine's color detection
 - Technologies used: Python, PostgreSQL, Excel
 
-### Projects
+### Internship Projects
+-Project 1
+-Project 2
+
+### Academic Projects
 **Classified Disaster-Related Tweets using NLP (_July 2024 – August 2024_)**
 - Formed and led a team in a Kaggle competition to classify 10,000+ disaster-related tweets
 - Improved model performance by 15% through testing and selecting the optimal combination of AI models
