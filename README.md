@@ -5,8 +5,12 @@
 - M.S. Applied Data Science | University of Southern California (_Graduated: December 2023_)
 - B.S. Mathematics/Economics | University of Southern California (_Graduated: May 2022_)
 
+### Internship Projects
+- Super Resolution Project | Sandia National Laboratories | Summer 2023 | [Download SR Presentation (PDF)](projects/daniel_masters_sr_git.pdf)
+- Optical Character Recognition Project | Sandia National Laboratories | Fall 2023/Spring 2024 | [Download OCR Presentation (PDF)](projects/daniel_masters_ocr_git.pdf)
+
 ### Work Experience
-**Incoming Data Scientist Intern @ Lawrence Livermore National Lab (_June 2025-September 2025_)**
+**_Incoming Data Scientist Intern @ Lawrence Livermore National Lab (June 2025-September 2025)!!_**
 
 **AI Tutor @ xAI (_December 2024 – Present_)**
 - Curated and delivered high-quality labeled data to enhance AI-generated responses
@@ -28,10 +32,6 @@
 - Enhanced product categorization by monitoring and updating 3,000+ items in their Active Learning Application
 - Teamed up with a fellow intern to develop a system to define color ranges for the search engine's color detection
 - Technologies used: Python, PostgreSQL, Excel
-
-### Internship Projects
-- Super Resolution Project | Sandia National Laboratories | Summer 2023 | [Download SR Presentation (PDF)](projects/daniel_masters_sr_git.pdf)
-- Optical Character Recognition Project | Sandia National Laboratories | Fall 2023/Spring 2024 | [Download OCR Presentation (PDF)](projects/daniel_masters_ocr_git.pdf)
 
 ### Academic Projects
 **Classified Disaster-Related Tweets using NLP (_July 2024 – August 2024_)**
